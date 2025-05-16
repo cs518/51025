@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-oneThird" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Place Coulumns And The Values That A Digit Represents</title>
+    <p>In this section, we will discuss the place columns and the values that a digit represents in different number systems.</p>
+        <h1>Place Columns</h1>
+        <p>In any number system, the position of a digit determines its value. For example, in the decimal system, the digit 5 in the number 543 represents 5 hundreds (5 x 10<sup>2</sup>), while in the number 45, it represents 5 tens (5 x 10<sup>1</sup>).</p>
+        <p>In binary, the place columns are powers of 2. For example, the binary number 1011 represents:</p>
+        <ul>
+            <li>1 x 2<sup>3</sup> + 0 x 2<sup>2</sup> + 1 x 2<sup>1</sup> + 1 x 2<sup>0</sup></li>
+            <li>= 8 + 0 + 2 + 1 = 11 in decimal.</li>
+        </ul>
+    
+        <h1>Values That A Digit Represents</h1>
+        <p>The value that a digit represents depends on its position in the number and the base of the number system. In decimal, each digit can represent values from 0 to 9. In binary, each digit can represent values from 0 to 1.</p>
+</section>

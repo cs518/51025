@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-section-oneSecond" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Section Two</title>
+  <title>Number Systems</title>
+  <p>In this section, we will discuss three different number systems used in computing.</p>
+    <h1>Decimal</h1>
+    <p>The decimal system is a base-10 numeral system that uses ten symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. It is the most common number system used by humans.</p>
+    <p>Computers use binary because it matches the physical nature of electronics—on/off, voltage/no voltage—and makes processing, storage, and logic operations simple and efficient.</p>
 
-  <p> And the this happened</p>
-
+    <h1>Binary</h1>
+    <p>Binary is a base-2 numeral system that uses only two symbols: 0 and 1. It is the foundation of all modern computing systems.</p>
+    <p>Computers use binary because it matches the physical nature of electronics—on/off, voltage/no voltage—and makes processing, storage, and logic operations simple and efficient.</p>
+ 
+    <h1>Hexadecimal</h1>
+    <p>Hexadecimal is a base-16 numeral system that uses sixteen symbols: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, and F. It is often used in computing as a shorthand for binary.</p>
+    <p>Hexadecimal is more compact than binary and easier for humans to read. Each hexadecimal digit represents four binary digits (bits).</p>  
 </section>

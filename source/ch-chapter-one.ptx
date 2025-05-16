@@ -2,7 +2,7 @@
   <title>Chapter One : Data Representation</title>
 
   <introduction>
-    <p> Howw is data stored in a computer ?  </p>
+    <p> This chapter discusses the form in which data (text,images, sound, etc.) is stored in a computer ?  </p>
   </introduction>
 
   <!-- include sections -->
@@ -11,4 +11,5 @@
 
   <!-- include sections -->
   <xi:include href="sec-section-oneSecond.ptx" />
+  <xi:include href="sec-section-oneThird.ptx" />
 </chapter>

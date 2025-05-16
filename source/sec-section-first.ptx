@@ -6,12 +6,12 @@
   <p> In this section, we will discuss the difference between analog and digital data representation. </p>
     <h1>Examples of Digitization</h1>
     <ul>
-        <li><strong>Light captured by a camera</strong> – the digital photo created</li>
-        <li><strong>Sound pressure waves in air</strong> – the digitized sound saved in computer</li>
+        <li><strong>Light captured by a camera</strong> – Light has an infinite range of frequencies. The digital photo is created with finite values.</li>
+        <li><strong>Sound pressure waves in air</strong> – Same with sound pressure waves, the digitized sound saved in computer uses certain values to represent an infinite range of atural frequencies.</li>
     </ul>
 
     <h2>Definition</h2>
-    <p><strong>Digitize</strong> – convert (pictures, text, or sound) into data in the form of especially binary digits</p>
+    <p><strong>Digitize</strong> – convert (pictures, text, or sound) into data in the form of binary digits</p>
 
     <h2>Concept</h2>
     <p>The natural world – <strong>digitizer</strong> → what computers are built to store, manipulate, <em>display</em>.</p>
