@@ -1,11 +1,14 @@
 <chapter xml:id="ch-chapter-one" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Heelo One</title>
+  <title>Chapter One : Data Representation</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> Howw is data stored in a computer ?  </p>
   </introduction>
 
   <!-- include sections -->
   <xi:include href="sec-section-first.ptx" />
 
+
+  <!-- include sections -->
+  <xi:include href="sec-section-oneSecond.ptx" />
 </chapter>

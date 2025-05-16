@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-section-first" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Onne section one</title>
+  <title>Analog vs Digital</title>
 
-  <p> Text of section. </p>
+  <p> In this section, we will discuss the difference between analog and digital data representation. </p>
+    <h1>Examples of Digitization</h1>
+    <ul>
+        <li><strong>Light captured by a camera</strong> – the digital photo created</li>
+        <li><strong>Sound pressure waves in air</strong> – the digitized sound saved in computer</li>
+    </ul>
+
+    <h2>Definition</h2>
+    <p><strong>Digitize</strong> – convert (pictures, text, or sound) into data in the form of especially binary digits</p>
+
+    <h2>Concept</h2>
+    <p>The natural world – <strong>digitizer</strong> → what computers are built to store, manipulate, <em>display</em>.</p>
+  
 
 </section>
